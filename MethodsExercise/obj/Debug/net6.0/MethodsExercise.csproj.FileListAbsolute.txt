@@ -1,0 +1,14 @@
+C:\Users\klous\Desktop\repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.exe
+C:\Users\klous\Desktop\repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.deps.json
+C:\Users\klous\Desktop\repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.runtimeconfig.json
+C:\Users\klous\Desktop\repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.dll
+C:\Users\klous\Desktop\repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.pdb
+C:\Users\klous\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klous\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfoInputs.cache
+C:\Users\klous\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfo.cs
+C:\Users\klous\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.csproj.CoreCompileInputs.cache
+C:\Users\klous\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.dll
+C:\Users\klous\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\refint\MethodsExercise.dll
+C:\Users\klous\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.pdb
+C:\Users\klous\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.genruntimeconfig.cache
+C:\Users\klous\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\ref\MethodsExercise.dll
