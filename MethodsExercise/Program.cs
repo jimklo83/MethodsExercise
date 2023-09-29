@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("What's your favorite girl's name?");
+           /* Console.WriteLine("What's your favorite girl's name?");
             string girlName = Console.ReadLine();
 
             Console.WriteLine("What's your favorite guy's name?");
@@ -27,7 +27,7 @@
             Console.WriteLine($"Suddenly, a {adj1} and {adj2} {bigAnimal} came and started charging right at them!");
             Console.WriteLine($"{girlName} and {guyName} ran away as fast as they could but {guyName} fell and hurt himself.");
             Console.WriteLine($"{girlName} didn't notice that {guyName} was gone and ran back to town.");
-            Console.WriteLine($"Nobody ever saw {guyName} again..."); 
+            Console.WriteLine($"Nobody ever saw {guyName} again...");*/
 
             int sum = Add(17, 45);
             Console.WriteLine($"17 plus 45 is {sum}.");
@@ -40,6 +40,10 @@
 
             int quot = Divide(35, 5);
             Console.WriteLine($"35 divided by 5 is {quot}.");
+
+            int mod = Modulo(99, 10);
+            Console.WriteLine($"When 99 is divided by 10, the remainder is {mod}.");
+
         }
 
         public static int Add(int num1, int num2)
@@ -60,6 +64,11 @@
         public static int Divide(int num1, int num2)
         {
             return (num1 / num2);
+        }
+
+        public static int Modulo(int num1, int num2) 
+        {
+            return (num1 % num2);
         }
      }
 }
