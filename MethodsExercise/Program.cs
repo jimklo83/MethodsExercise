@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-           /* Console.WriteLine("What's your favorite girl's name?");
+            Console.WriteLine("What's your favorite girl's name?");
             string girlName = Console.ReadLine();
 
             Console.WriteLine("What's your favorite guy's name?");
@@ -27,7 +27,8 @@
             Console.WriteLine($"Suddenly, a {adj1} and {adj2} {bigAnimal} came and started charging right at them!");
             Console.WriteLine($"{girlName} and {guyName} ran away as fast as they could but {guyName} fell and hurt himself.");
             Console.WriteLine($"{girlName} didn't notice that {guyName} was gone and ran back to town.");
-            Console.WriteLine($"Nobody ever saw {guyName} again...");*/
+            Console.WriteLine($"Nobody ever saw {guyName} again...");
+            Console.WriteLine();
 
             int sum = Add(17, 45);
             Console.WriteLine($"17 plus 45 is {sum}.");
